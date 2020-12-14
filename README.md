@@ -1,6 +1,7 @@
 ### Hi there 👋
-[sebastiansiejek.dev](https://sebastiansiejek.dev)<br/>
-![contact@sebastiansiejek.dev](https://img.shields.io/badge/contact@sebastiansiejek.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="https://sebastiansiejek.dev"><img src="https://img.shields.io/badge/sebastiansiejek.dev-3CEAB8?style=for-the-badge" /></a>
+<br/>
+<a href="mailto:contact@sebastiansiejek.dev"><img src="https://img.shields.io/badge/contact@sebastiansiejek.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ## Skills
 

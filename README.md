@@ -16,3 +16,6 @@ Project | Technologies | Repo
 --- | --- | ---
 Chat app based on websockets | Nest.js, Next.js | [Link](https://github.com/sd-communicator)
 Project manager system | Java, Next.js | [Link](https://github.com/sdr-projects-manager)
+
+## Articles
+* <a href="https://geek.justjoin.it/wordpress-jako-headless-cms">WordPress jako headless cms - Just Join IT</a>

@@ -14,7 +14,7 @@
 ## Current projects
 Project | Technologies | Repo
 --- | --- | ---
-Chat app based on websockets | Nest.js, Next.js | [Fronted](https://github.com/sebastiansiejek/sd-communicator-frontend) / [Backend](https://github.com/sebastiansiejek/sd-communicator-backend)
+Chat app(text and video) based on websockets | Nest.js, Next.js | [Fronted](https://github.com/sebastiansiejek/sd-communicator-frontend) / [Backend](https://github.com/sebastiansiejek/sd-communicator-backend)
 Project manager system | Java, Next.js | [Link](https://github.com/sdr-projects-manager)
 
 ## Articles

@@ -28,9 +28,9 @@ Project | Repo | Demo
 Run-Length Encoding (RLE) | [link](https://github.com/sebastiansiejek/rle) | [link](https://rle.vercel.app/)
 Passwordless in NEXT.js | [link](https://github.com/sebastiansiejek/passwordless-auth) | [link](https://passwordless-auth.vercel.app/)
 Currency Changer | [link](https://github.com/sebastiansiejek/currency-changer)
-Hangman | [link](https://ss-hangman.herokuapp.com/) | [link](https://ss-hangman.herokuapp.com/)
+Hangman | [link](https://github.com/sebastiansiejek/hangman) | [link](https://ss-hangman.herokuapp.com/)
 Rail Fence Cipher | [Next.js](https://github.com/sebastiansiejek/rail-fence-cipher-js) / [Nest.js](https://github.com/sebastiansiejek/rail-fence-cipher-backend)
-Pagination | [link](https://github.com/sebastiansiejek/progress-gym-tracker)
+Pagination | [link](https://github.com/sebastiansiejek/pagination-js)
 
 ## React Native
 Project | Repo

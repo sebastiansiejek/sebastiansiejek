@@ -57,4 +57,4 @@ Elevator logic | [link](https://github.com/sebastiansiejek/elevators-logic)
 
 ## Articles
 * 07.02.2022 - <a href="https://www.empressia.pl/blog/290-cli-co-to-jest-jak-stworzyc" target="_blank">CLI co to jest i jak je stworzyć?</a>
-* 18.12.2021 - <a href="https://geek.justjoin.it/wordpress-jako-headless-cms" target="_blank">WordPress jako headless cms - Just Join IT</a>
+* 18.12.2020 - <a href="https://geek.justjoin.it/wordpress-jako-headless-cms" target="_blank">WordPress jako headless cms - Just Join IT</a>

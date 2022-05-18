@@ -25,11 +25,11 @@ Project manager system | Java, Next.js | [Link](https://github.com/sdr-projects-
 ## JavaScript/TypeScript/React/Next.js
 Project | Repo | Demo
 --- | --- | ---
-Run-Length Encoding (RLE) | [link](https://github.com/sebastiansiejek/rle) | [link](https://rle.vercel.app/)
-Passwordless in NEXT.js | [link](https://github.com/sebastiansiejek/passwordless-auth) | [link](https://passwordless-auth.vercel.app/)
 Currency Changer | [link](https://github.com/sebastiansiejek/currency-changer)
 Hangman | [link](https://github.com/sebastiansiejek/hangman) | [link](https://ss-hangman.herokuapp.com/)
 Rail Fence Cipher | [Next.js](https://github.com/sebastiansiejek/rail-fence-cipher-js) / [Nest.js](https://github.com/sebastiansiejek/rail-fence-cipher-backend)
+Run-Length Encoding (RLE) | [link](https://github.com/sebastiansiejek/rle) | [link](https://rle.vercel.app/)
+Passwordless in NEXT.js | [link](https://github.com/sebastiansiejek/passwordless-auth) | [link](https://passwordless-auth.vercel.app/)
 Pagination | [link](https://github.com/sebastiansiejek/pagination-js)
 
 ## React Native
@@ -40,7 +40,7 @@ Progress Gym Tracker| [link](https://github.com/sebastiansiejek/progress-gym-tra
 ## WordPress plugins
 Project | Repo
 --- | ---
-Run-Length Encoding (RLE) | [link](https://github.com/sebastiansiejek/shared-uploads-directory-wp) / PHP
+Shared Uploads Directory | [link](https://github.com/sebastiansiejek/shared-uploads-directory-wp) / PHP
 
 ## Python
 Project | Repo

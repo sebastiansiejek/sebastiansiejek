@@ -16,10 +16,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 # Projects
-Project | Technologies | Repo
---- | --- | ---
-Meet us - App for events | Nest.js, Next.js | [Backend](https://github.com/sebastiansiejek/meet.us-backend) / [Frontend](https://github.com/sebastiansiejek/meet.us-frontend)
-Chat app(text and video) based on websockets | Nest.js, Next.js | [Backend](https://github.com/sebastiansiejek/sd-communicator-backend) / [Fronted](https://github.com/sebastiansiejek/sd-communicator-frontend)
+Project | Technologies | Repo | Demo
+--- | --- | --- | ---
+Meet us - App for events | Nest.js, Next.js | [Backend](https://github.com/sebastiansiejek/meet.us-backend) / [Frontend](https://github.com/sebastiansiejek/meet.us-frontend) | [link](https://meet-us-frontend-inz.herokuapp.com/pl)
+Chat app(text and video) based on websockets | Nest.js, Next.js | [Backend](https://github.com/sebastiansiejek/sd-communicator-backend) / [Fronted](https://github.com/sebastiansiejek/sd-communicator-frontend) | [link](https://sd-communicator-frontend.vercel.app)
 Project manager system | Java, Next.js | [Link](https://github.com/sdr-projects-manager)
 
 ## JavaScript/TypeScript/React/Next.js
@@ -40,11 +40,12 @@ Progress Gym Tracker| [link](https://github.com/sebastiansiejek/progress-gym-tra
 ## WordPress plugins
 Project | Repo
 --- | ---
-Shared Uploads Directory | [link](https://github.com/sebastiansiejek/shared-uploads-directory-wp) / PHP
+Shared Uploads Directory | [link](https://github.com/sebastiansiejek/shared-uploads-directory-wp)
 
 ## Python
 Project | Repo
 --- | ---
+ETL | [link](https://github.com/sebastiansiejek/python-etl)
 Stegano | [link](https://github.com/sebastiansiejek/stegano-python)
 RSA | [link](https://github.com/sebastiansiejek/python-rsa)
 Diffie Hellman | [link](https://github.com/sebastiansiejek/diffie-hellman-algorithm)

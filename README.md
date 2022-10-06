@@ -22,6 +22,11 @@ Meet us - App for events | Nest.js, Next.js | [Backend](https://github.com/sebas
 Chat app(text and video) based on websockets | Nest.js, Next.js | [Backend](https://github.com/sebastiansiejek/sd-communicator-backend) / [Fronted](https://github.com/sebastiansiejek/sd-communicator-frontend) | [link](https://sd-communicator-frontend.vercel.app)
 Project manager system | Java, Next.js | [Link](https://github.com/sdr-projects-manager)
 
+## Templates
+Tech | Repo
+--- | ---
+NextJS | [link](https://github.com/sebastiansiejek/nextjs-boilerplate)
+
 ## JavaScript/TypeScript/React/Next.js
 Project | Repo | Demo
 --- | --- | ---

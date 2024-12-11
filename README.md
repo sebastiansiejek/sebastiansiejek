@@ -14,10 +14,12 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logoColor=21759b)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 # Projects
 Project | Technologies | Repo | Demo
 --- | --- | --- | ---
+Planning Poker - App for events | Next.js | [link](https://github.com/sebastiansiejek/planning-poker) | [link](https://planning-poker.sebastiansiejek.dev)
 Meet us - App for events | Nest.js, Next.js | [Backend](https://github.com/sebastiansiejek/meet.us-backend) / [Frontend](https://github.com/sebastiansiejek/meet.us-frontend) | [link](https://meet-us-frontend-inz.herokuapp.com/pl)
 Chat app(text and video) based on websockets | Nest.js, Next.js | [Backend](https://github.com/sebastiansiejek/sd-communicator-backend) / [Fronted](https://github.com/sebastiansiejek/sd-communicator-frontend) | [link](https://sd-communicator-frontend.vercel.app)
 Project manager system | Java, Next.js | [Link](https://github.com/sdr-projects-manager)
